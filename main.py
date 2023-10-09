@@ -8,5 +8,5 @@ pd = print("√Δ =", d**(1/2)) # funkcja wykonuje obliczanie pierwiastka z delt
 x1 = (-b + (d ** 0.5)) / (2 * a) # x1
 x2 = (-b - (d ** 0.5)) / (2 * a) # x2
 print(x1, x2)
-print("wzory viete'a")
+print("wzory viete'a") # obliczy wzory viete'a
 
